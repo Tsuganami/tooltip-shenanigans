@@ -1,10 +1,18 @@
-# Drawing-with-CSS
-**Bonus Task !** 
+# CSS-Tooltip
 
-This is a cool one. You won't believe but this is a job Interview/excersie, you can be asked to draw your face in CSS in a limited time.
+**Bonus Task !**
 
-Feel free to check out this [Blog!](https://blog.prototypr.io/how-to-draw-your-face-in-css-89676e71236a). You may animate the drawing if you like.
+A tooltip is often used to specify extra information about something when the user moves the mouse pointer over an element.
+**Requirements:**
+* Design an appropriate application of CSS-Tooltip.
+* The page shall have at least 5 tooltips.
+* [Recommended Reading](https://blog.logrocket.com/creating-beautiful-tooltips-with-only-css/).
 
-![Gif](https://user-images.githubusercontent.com/81492078/114279770-909c3580-9a36-11eb-9ee5-70996aa7a59f.gif)
+Unleash your creativity! :thumbsup:
+<hr />
 
-**Happy coding! Good Luck.**
+![Gif](https://cdn-media-1.freecodecamp.org/images/1*8RpaP4J1KI-RaxdIdMXHNg.gif)
+
+* Feel free to check [SCSS Wonky Tooltip](https://codemyui.com/wonky-rise-css-tooltip-hover/) in Java.
+
+![Gif](https://i0.wp.com/codemyui.com/wp-content/uploads/2017/05/wonky-rise-up-css-tooltip-on-hover.gif)
